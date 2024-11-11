@@ -1,8 +1,7 @@
 ![MikeOnBoard Banner](https://github.com/MikeOnBoard/MikeOnBoard/blob/main/Github%20source/Header%20Baner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jean Rangel</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2 align="center">Hey there! I'm Jean Rangel</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
