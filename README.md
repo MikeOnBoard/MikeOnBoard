@@ -37,6 +37,7 @@
 ### 🗃 &nbsp;Databases
 
 ![MySQL](https://img.shields.io/badge/MYSQL-%23333333?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/FIREBASE-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/REDIS-%23FF4438?style=for-the-badge&logo=redis&logoColor=%23ffffff)
