@@ -53,6 +53,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-%23333333?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/JENKINS-%23D24939?style=for-the-badge&logo=jenkins&logoColor=%23ffffff)
 ![Fast API](https://img.shields.io/badge/FASTAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=%23ffffff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
