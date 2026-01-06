@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Innovite Solutions as Fullstack Developer.\
+👨‍💻 &nbsp;I am Currently Working at Teleperformance as Technical Support Specialist.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm on track for learning more about Web Developing, Problem Solving and Software Architecture.\
 ✍️ &nbsp;In my free time, I like to Read all that i can, Dance all kind of music, Travel as much as Possible, Play Volleyball like a pro and Spending time with my Family.\
