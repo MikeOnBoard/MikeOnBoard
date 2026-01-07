@@ -23,7 +23,7 @@
 
 ![Go](https://img.shields.io/badge/GO-%23292929?style=for-the-badge&logo=go)
 ![React](https://img.shields.io/badge/REACT-%231c2c4c?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/java-red?style=flat&logoColor=%23744e3b&logoSize=auto)
+![Java](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logoColor=%23744e3b&logoSize=auto)
 ![Typescript](https://img.shields.io/badge/TYPESCRIPT-%23ffffff?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
