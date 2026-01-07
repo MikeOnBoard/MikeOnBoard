@@ -49,6 +49,7 @@
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
+![Linux](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23744e3b&logoSize=auto)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=%23ffffff)
 ![Vs code](https://img.shields.io/badge/VS%20CODE-%230484dc?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
